@@ -1,0 +1,130 @@
+[1] P. Lewis, E. Perez, A. Piktus, F. Petroni, V. Karpukhin,
+N. Goyal, H. Küttler, M. Lewis, W.-T. Yih, T. Rock-
+täschel, S. Riedel, and D. Kiela, “Retrieval-augmented
+generation for knowledge-intensive NLP tasks,” Adv.
+Neural Inf. Process. Syst., vol. 33, pp. 9459–9474,
+2020.
+[2] Z. Ji, T. Yu, Y. Xu, N. Lee, E. Ishii, and P. Fung,
+“Towards mitigating LLM hallucination via self re-
+flection,” Findings of the Assoc. Comput. Linguistics:
+EMNLP, pp. 1827–1843, 2023.
+[3] Y. Gao, Y. Xiong, X. Gao, K. Jia, J. Pan, Y. Bi,
+Y. Dai, J. Sun, M. Wang, and H. Wang, “Retrieval-
+augmented generation for large language models: A
+survey,” arXiv:2312.10997, 2023.
+[4] L. Gao, X. Ma, J. Lin, and J. Callan, “Precise zero-shot
+dense retrieval without relevance labels,” Proc. 61st
+Annu. Meeting Assoc. Comput. Linguistics, pp. 1762–
+1777, 2023.
+[5] D. Vake, J. Viˇciˇc, and A. Toši´c, “Bridging the question-
+answer gap in retrieval-augmented generation: Hypo-
+thetical prompt embeddings,” IEEE Access, vol. 13,
+pp. 129952–129961, 2025.
+[6] G. V. Cormack, C. L. A. Clarke, and S. Buettcher,
+“Reciprocal rank fusion outperforms Condorcet and
+individual rank learning methods,” Proc. 32nd Int.
+ACM SIGIR Conf., pp. 758–759, 2009.
+[7] Y. A. Malkov and D. A. Yashunin, “Efficient and
+robust approximate nearest neighbor search using hi-
+erarchical navigable small world graphs,” IEEE Trans.
+Pattern Anal. Mach. Intell., vol. 42, no. 4, pp. 824–
+836, 2020.
+[8] J. Johnson, M. Douze, and H. Jégou, “Billion-scale
+similarity search with GPUs,” IEEE Trans. Big Data,
+vol. 7, no. 3, pp. 535–547, 2021.
+[9] R. Guo, P. Sun, E. Lindgren, Q. Geng, D. Simcha,
+F. Chern, and S. Kumar, “Accelerating large-scale
+inference with anisotropic vector quantization,” Proc.
+Int. Conf. Mach. Learn., pp. 3887–3896, 2020.
+[10] J. Wang, “Milvus: A purpose-built vector data man-
+agement system,” Proc. Int. Conf. Manage. Data,
+pp. 2614–2627, 2021.
+[11] H. Elkiran and J. Rasheed, “EvaRAG: Evaluating ad-
+vanced RAG techniques with indexing and distance
+metrics,” IEEE Access, vol. 13, pp. 215724–215747,
+2025, doi: 10.1109/ACCESS.2025.3646665.
+[12] H. Elkiran and J. Rasheed, “An empirical evaluation of
+retrieval, reranking, and similarity for a Q&A-based
+retrieval augmented generation system,” IEEE Access,
+vol. 14, pp. 26053–26066, 2026, doi: 10.1109/AC-
+CESS.2026.3664852.
+[13] D. Tanyildiz, S. Ayvaz, and M. F. Amasyali, “En-
+hancing retrieval-augmented generation accuracy with
+dynamic chunking and optimized vector search,” Or-
+clever Proc. Res. Develop., vol. 5, no. 1, pp. 215–225,
+2024.
+[14] X. Ma, L. Wang, N. Yang, F. Wei, and J. Lin, “Fine-
+grained late interaction multi-vector retrieval,” Proc.
+32nd ACM Int. Conf. Inf. Knowl. Manage., pp. 1733–
+1742, 2023.
+[15] F. Shi, X. Chen, K. Misra, N. Scales, D. Dohan, E. Chi,
+N. Schärli, and D. Zhou, “Large language models can
+be easily distracted by irrelevant context,” Proc. Int.
+Conf. Mach. Learn., pp. 31210–31227, 2023.
+[16] A. Conneau, K. Khandelwal, N. Goyal, V. Chaudhary,
+G. Wenzek, F. Guzmán, E. Grave, M. Ott, L. Zettle-
+moyer, and V. Stoyanov, “Unsupervised cross-lingual
+representation learning at scale,” Proc. 58th Annu.
+Meeting Assoc. Comput. Linguistics, pp. 8440–8451,
+2020.
+[17] A. Asai, J. Min, Z. Zhong, and D. Chen, “Retrieval-
+based language models and applications,” Proc. 60th
+Annu. Meeting Assoc. Comput. Linguistics: Tutorial
+Abstracts, pp. 14–18, 2022.
+[18] L. Zheng, W.-L. Chiang, Y. Sheng, S. Zeng, Z. Li,
+D. Li, H. Xing, C.-C. Joseph, Y. Wu, H. Zhang, B. Sto-
+ica, and I. Stoica, “Judging LLM-as-a-judge with MT-
+bench and chatbot arena,” Adv. Neural Inf. Process.
+Syst., vol. 36, 2023.
+[19] S. Es, J. James, L. Espinosa-Anke, and S. Schock-
+aert, “RAGAS: Automated evaluation of retrieval aug-
+mented generation,” Proc. 18th Conf. Eur. Chapter
+Assoc. Comput. Linguistics, pp. 150–158, 2024.
+[20] N. Reimers and I. Gurevych, “Sentence-BERT: Sen-
+tence embeddings using Siamese BERT-networks,”
+Proc. 2019 Conf. Empirical Methods Nat. Lang. Pro-
+cess., pp. 3982–3992, 2019.
+[21] R. Nogueira and K. Cho, “Passage re-ranking with
+BERT,” arXiv:1901.04085, 2019.
+[22] D. Chen, A. Fisch, J. Weston, and A. Bordes, “Read-
+ing Wikipedia to answer open-domain questions,”
+Proc. 55th Annu. Meeting Assoc. Comput. Linguis-
+tics, pp. 1870–1879, 2017.
+[23] V. Karpukhin, B. Oguz, S. Min, P. Lewis, L. Wu,
+S. Edunov, D. Chen, and W.-T. Yih, “Dense passage
+retrieval for open-domain question answering,” Proc.
+2020 Conf. Empirical Methods Nat. Lang. Process.,
+pp. 6769–6781, 2020.
+[24] S. Robertson and H. Zaragoza, “The probabilistic rele-
+vance framework: BM25 and beyond,” Found. Trends
+Inf. Retr., vol. 3, no. 4, pp. 333–389, 2009.
+[25] L. Xiong, C. Xiong, Y. Li, K.-F. Tang, J. Liu, P. Ben-
+nett, J. Ahmed, and A. Overwijk, “Approximate near-
+est neighbor negative contrastive estimation for dense
+text retrieval,” Int. Conf. Learn. Represent., 2021.
+[26] G. Izacard and E. Grave, “Leveraging passage retrieval
+with generative models for open domain question an-
+swering,” Proc. 16th Conf. Eur. Chapter Assoc. Com-
+put. Linguistics, pp. 874–880, 2021.
+[27] O. Khattab and M. Zaharia, “ColBERT: Efficient and
+effective passage search via contextualized late inter-
+action over BERT,” Proc. 43rd Int. ACM SIGIR Conf.,
+pp. 39–48, 2020.
+[28] Y. Zhu, Y. Yuan, S. Wang, J. Liu, W. Liu, C. Deng,
+Z. Chen, and B. Chen, “Large language models for
+information retrieval: A survey,” arXiv:2308.07107,
+2023.
+[29] W. Fan, Y. Ding, L. Ning, S. Wang, H. Li, D. Yin, T.-
+S. Chua, and Q. Li, “A survey on RAG meets LLMs:
+Towards retrieval-augmented large language models,”
+Proc. 30th ACM SIGKDD Conf. Knowl. Discov. Data
+Mining, pp. 6491–6501, 2024.
+[30] A. Asai, Z. Wu, Y. Wang, A. Sil, and H. Hajishirzi,
+“Self-RAG: Learning to retrieve, generate, and critique
+through self-reflection,” Int. Conf. Learn. Represent.,
+2024.
+[31] D. Edge, H. Trinh, N. Cheng, J. Bradley, A. Chao,
+A. Louf, C. Munsell, T. Noel, R. Roberts, X. Xu,
+B. Yacef, C. Young, and A. Zhu, “From local to global:
+A graph RAG approach to query-focused summariza-
+tion,” arXiv:2404.16130, 2024
